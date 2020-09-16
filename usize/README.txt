@@ -1,0 +1,1 @@
+This is a program for domain wall in u-size nami line forced by spin wave
